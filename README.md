@@ -1,0 +1,2 @@
+# machine-learning-project-on-sentimental-analysis-using-Naive-Bayes-classifier
+## **Sentiment Analysis** We will implement Naive Bayes classifier to perform sentiment analysis on movie reviews. We will take 1000 positive and 1000 negative reviews and mix them, split them into training and testing dataset. Train the classifier on training dataset and then use it to predict the sentiment on testing datasets
